@@ -36,7 +36,7 @@ map.html
 <font color="red"><b>Ariyalur - Cement City</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>Jivan Karthec B.S(212222100017)</b></font>
+<font color="blue"><b>THIRISHA(212222230160)</b></font>
 </h3>
 <center>
 <img src="/static/images/map2.png" usemap="#MyCity" height="420" width="1100">
